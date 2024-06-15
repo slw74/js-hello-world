@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log(42);
+console.log(4 + 2);
+console.log("42");
+console.log("4" + "2");
+console.log("Don't panic!");
+console.log("Always have your towel.");
+console.log("What is the meaning of life?  " + "The answer is 42.");
+console.log('"A towel, it says, is about the most massively useful thing an interstellar hitchhiker can have." ― Douglas Adams, The Hitchhiker\’s Guide to the Galaxy');
 
 /*  
 Next, PLAY! 
